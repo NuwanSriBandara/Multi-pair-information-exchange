@@ -8,6 +8,7 @@ Transmitted signal from base station to all clusters,
 The relationship between transmit power (P_i) and total power (P_t),
 
 ![second equation](https://latex.codecogs.com/gif.latex?P%7B_i%7D%20%3D%20%5Cepsilon%20%7B_i%7D*%5Calpha%20%7B_i%7D*P%7B_t%7D%3B%20i%20%3D%201%2C2%2C3)
+
 Here ![third equation](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D1%7D%5E%7B3%7D%20a%7B_i%7D%20%3D%201) are ![fourth equation](https://latex.codecogs.com/gif.latex?%5Cepsilon%20%7B_i%7D%20%3D) the inter pair power allocation coefficients where as ε_i= intra pair power allocation coefficient
 
 The system is easily expandable to any cluster with any number of users for more wider implementation.
