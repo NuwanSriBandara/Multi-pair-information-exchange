@@ -3,7 +3,7 @@ In this project, a single isolated cell for a multi-pair information exchange of
 
 Transmitted signal from base station to all clusters,
 
-![first equation] (https://latex.codecogs.com/gif.latex?y%20%3D%20%5Csum_%7Ba%3D1%7D%5E%7B2%7D%5Cleft%20%5B%20%5Csum_%7Bi%3D1%7D%5E%7B3%7D%5C%28h_%7Ba%2Ci%7D%29*%5C%5Csqrt%7B%5Cleft%20%28%20P_%7Bi%7D%5Cright%20%29%7D*%5C%28x_%7Ba%2Ci%7D%29%20%5Cright%20%5D%20&plus;n)
+![first equation](https://latex.codecogs.com/gif.latex?y%20%3D%20%5Csum_%7Ba%3D1%7D%5E%7B2%7D%5Cleft%20%5B%20%5Csum_%7Bi%3D1%7D%5E%7B3%7D%5C%28h_%7Ba%2Ci%7D%29*%5C%5Csqrt%7B%5Cleft%20%28%20P_%7Bi%7D%5Cright%20%29%7D*%5C%28x_%7Ba%2Ci%7D%29%20%5Cright%20%5D%20&plus;n)
 
 The relationship between transmit power (P_i) and total power (P_t),
 
