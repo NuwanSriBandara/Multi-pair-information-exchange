@@ -11,6 +11,7 @@ The relationship between transmit power (P_i) and total power (P_t),
 
 Here ![third equation](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D1%7D%5E%7B3%7D%20a%7B_i%7D%20%3D%201) are  the inter pair power allocation coefficients where as ![fourth equation](https://latex.codecogs.com/gif.latex?%5Cepsilon%20%7B_i%7D%20%3D) intra pair power allocation coefficient
 
-![](Images/cc)
+![](Images/Before_transmission.jpg)
+Figure 1: An example data stream before transmission through the enslaved channels
 
 The system is easily expandable to any cluster with any number of users for more wider implementation.
