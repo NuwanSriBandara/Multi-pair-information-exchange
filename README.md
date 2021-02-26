@@ -11,12 +11,12 @@ The relationship between transmit power (P_i) and total power (P_t),
 
 Here ![third equation](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D1%7D%5E%7B3%7D%20a%7B_i%7D%20%3D%201) are  the inter pair power allocation coefficients where as ![fourth equation](https://latex.codecogs.com/gif.latex?%5Cepsilon%20%7B_i%7D%20%3D) intra pair power allocation coefficient
 
-<img src="https://github.com/NuwanSriBandara/Multi-pair-information-exchange-controlled-by-a-base-station/blob/main/Images/Before_transmission.jpg" width="256" height="256"><br />
+<img src="https://github.com/NuwanSriBandara/Multi-pair-information-exchange-controlled-by-a-base-station/blob/main/Images/Before_transmission.jpg" width="300" height="300"><br />
 Figure 1: An example data stream before transmitting through the enslaved channels (QPSK)
 
-<img src="https://github.com/NuwanSriBandara/Multi-pair-information-exchange-controlled-by-a-base-station/blob/main/Images/After_transmission.jpg" width="256" height="256"> <br />
+<img src="https://github.com/NuwanSriBandara/Multi-pair-information-exchange-controlled-by-a-base-station/blob/main/Images/After_transmission.jpg" width="300" height="300"> <br />
 Figure 2: Obtained data stream through the base station at each channel (QPSK)
 
-![](Images/Final_BER.jpg) <br />
+<img src="https://github.com/NuwanSriBandara/Multi-pair-information-exchange-controlled-by-a-base-station/blob/main/Images/Final_BER.jpg" width="300" height="300"> <br />
 Figure 3: Bit error rate against the transmit power of each channel (QPSK) <br />
 The system is easily expandable to any cluster with any number of users for more wider implementation.
