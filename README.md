@@ -14,7 +14,7 @@ Here ![third equation](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D1%7D%5
 <img src="https://github.com/NuwanSriBandara/Multi-pair-information-exchange-controlled-by-a-base-station/blob/main/Images/Before_transmission.jpg" width="256" height="256"><br />
 Figure 1: An example data stream before transmitting through the enslaved channels (QPSK)
 
-![](Images/After_transmission.jpg) <br />
+<img src="https://github.com/NuwanSriBandara/Multi-pair-information-exchange-controlled-by-a-base-station/blob/main/Images/After_transmission.jpg" width="256" height="256"> <br />
 Figure 2: Obtained data stream through the base station at each channel (QPSK)
 
 ![](Images/Final_BER.jpg) <br />
